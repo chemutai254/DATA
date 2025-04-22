@@ -1,0 +1,501 @@
+location_id,addressLine1,city,state,zipCode,county
+0,30631 W Celeborn Dr,Buckeye,AZ,85396,Maricopa
+1,1212 Horseman Pl,Bismarck,ND,58501,Burleigh
+2,11030 Creekbridge Pl,San Diego,CA,92128,San Diego
+3,1113 W High St,Haddon Heights,NJ,8035,Camden County
+4,441 Janice Kay Pl,Kissimmee,FL,34744,Osceola
+5,1145 Broadway,Somerville,MA,2144,Middlesex
+6,Tahitian Gardens Cir,Holiday,FL,34691,Pasco
+7,12 Tamarack Cir,Eagleville,PA,19403,Montgomery County
+8,1249 15th St SW,Birmingham,AL,35211,Jefferson
+9,PO Box 693,Roscoe,PA,15477,Washington
+10,1701 Eutaw Pl,Baltimore,MD,21217,Baltimore City
+11,505 Green St,Rock Hill,SC,29730,York County
+12,704 W Taylor St,Griffin,GA,30223,Spalding
+13,98 Margery Dr,East Hartford,CT,6118,Hartford
+14,412 Pine Glen Ln,Greenacres,FL,33463,Palm Beach
+15,4506 Westminster,Benton,AR,72019,Saline
+16,441 Nw 106th St,Miami,FL,33150,Miami-Dade
+17,220 Pine Tree Trl,Crescent City,FL,32112,Putnam
+18,937 N Iowa St,Olathe,KS,66061,Johnson
+19,1181 Amber Pines Dr,Leland,NC,28451,Brunswick
+20,520 S Mill St,Lexington,KY,40508,Fayette
+21,1233 Ridge Ave,Steubenville,OH,43952,Jefferson
+22,PO Box 832134,Ocala,FL,34483,Marion
+23,910 Stratford Ave,Wichita Falls,TX,76306,Wichita
+24,7325 Wayfarer Trl,Fort Worth,TX,76137,Tarrant
+25,3041 Morsetowne Ct N,Columbus,OH,43224,Franklin
+26,98161 Golf Club Dr,Diamondhead,MS,39525,Hancock County
+27,414 S East St,Lebanon,OH,45036,Warren
+28,4567 Texas St,San Diego,CA,92116,San Diego
+29,201 Herndon St,Pittsburgh,PA,15220,Allegheny
+30,9345 W 82nd Ave,Arvada,CO,80005,Jefferson
+31,3710 Clubhouse Way,Gainesville,GA,30501,Hall
+32,11230 Palatine Ave N,Seattle,WA,98133,King
+33,105 Knight St,Angleton,TX,77515,Brazoria
+34,12232 Ridge Crown St,San Antonio,TX,78247,Bexar
+35,401 Martinique Ave,Dallas,TX,75223,Dallas
+36,45-415 Aumoku St,Kaneohe,HI,96744,Honolulu County
+37,5504 Midwinter Mist St,North Las Vegas,NV,89031,Clark
+38,3747 W Helena Dr,Glendale,AZ,85308,Maricopa
+39,20460 Campbellton Rd,San Antonio,TX,78264,Bexar
+40,2018 Hobbyhorse Ave,Henderson,NV,89012,Clark
+41,5334 Tilting Oaks Ct E,Jacksonville,FL,32258,Duval
+42,500 Victory Way,Pasadena,MD,21122,Anne Arundel
+43,1123 Patton Way,Mcdonough,GA,30252,Henry
+44,4100 N Hamlin Ave,Chicago,IL,60618,Cook
+45,5027 E Adams St,Tucson,AZ,85712,Pima
+46,9401 Clubhouse Dr,Foley,AL,36535,Baldwin
+47,1821 Hatherly Dr,Plano,TX,75023,Collin
+48,200 Throop Ave,Brooklyn,NY,11206,Kings
+49,11303 E Jackson Ave,Spokane Valley,WA,99206,Spokane
+50,601 S Federal Hwy,Fort Lauderdale,FL,33301,Broward
+51,1414 Fuselage Ave,Middle River,MD,21220,Baltimore
+52,395 W Tippets Ln,Duck Creek Village,UT,84762,Garfield
+53,746 Patriots Point St,Locust Grove,GA,30248,Henry
+54,1019 Katy Ln,Alexander,AR,72002,Saline
+55,968 Buckthorn Trl,Melbourne,FL,32940,Brevard County
+56,401 Vineyard Rd,Griffin,GA,30223,Spalding
+57,1703 S Broad St,Philadelphia,PA,19148,Philadelphia
+58,1308 Bear Creek Dr,Rocklin,CA,95765,Placer
+59,17131 72nd Ave N,Maple Grove,MN,55311,Hennepin
+60,1804 Hermitage Dr,Las Vegas,NV,89108,Clark
+61,1624 Woodruff Rd,Greenville,SC,29607,Greenville
+62,45 Scotland St,Ocean Isle Beach,NC,28469,Brunswick
+63,909 Jonathan Ct,Weatherford,TX,76086,Parker
+64,1018 W Walker St,Denison,TX,75020,Grayson
+65,6060 Washington Ave,Berkeley,MO,63134,Saint Louis
+66,6775 Calusa Ave,Cocoa,FL,32927,Brevard
+67,190 Eagle Feather St,Mount Washington,KY,40047,Bullitt
+68,4 Fossa Ave Unit D,Nashua,NH,3060,Hillsborough County
+69,591 Briarwood Dr,Gladewater,TX,75647,Gregg
+70,720 3rd Ave,New Cumberland,WV,26047,Hancock
+71,2003 Costa Del Mar Rd,Carlsbad,CA,92009,San Diego
+72,4616 Matthews Mint Hill Rd,Matthews,NC,28105,Mecklenburg
+73,117 Old Maple Ct,Essex,MD,21221,Baltimore
+74,4013 Stratford Rd,Youngstown,OH,44512,Mahoning
+75,1030 N Earls Ct,Palatine,IL,60067,Cook
+76,237 Falcon Ln,Kempner,TX,76539,Lampasas
+77,3108 Rex Dr,York,PA,17402,York County
+78,1110 W 15th 1/2 St,Houston,TX,77008,Harris
+79,8911 S 67th St,Papillion,NE,68133,Sarpy
+80,3798 Glenford Dr,Clermont,FL,34711,Lake
+81,5944 King Lear Dr,Indianapolis,IN,46254,Marion
+82,132 Tara Trace Cir,Gun Barrel City,TX,75156,Henderson
+83,33713 Fairview Dr,Yucaipa,CA,92399,San Bernardino
+84,3106 Dove Cove Cir,Humble,TX,77396,Harris
+85,5835 Lori Ln,Indian River,MI,49749,Cheboygan County
+86,3257 State Hwy,Kilgore,TX,75662,Gregg
+87,3616 Barham Blvd,Los Angeles,CA,90068,Los Angeles
+88,17 Vista Chalet Dr,Ellijay,GA,30540,Gilmer County
+89,PO Box 2591,Hazard,KY,41702,Perry
+90,1006 9th St NW,Cedar Rapids,IA,52405,Linn
+91,322 S Mahon Ave,Tyler,TX,75702,Smith
+92,31495 Sierra Linda St,Yucaipa,CA,92399,San Bernardino
+93,3633 Highway Ave,Highland,IN,46322,Lake
+94,9 Delmont St,Manchester,CT,6042,Hartford
+95,1433 Crest View Cir,Morristown,TN,37814,Hamblen
+96,307 E Niles Ave,Fresno,CA,93720,Fresno
+97,797 Alcott Ave,Pomona,CA,91766,Los Angeles
+98,1579 Woodside Dr,Fircrest,WA,98466,Pierce
+99,1302 Nw Lawton Ave,Lawton,OK,73507,Comanche
+100,1121 Kinnett Rd,Covington,GA,30016,Rockdale
+101,2461 Manzana Way,San Diego,CA,92139,San Diego
+102,2502 W 18th St,Houston,TX,77008,Harris
+103,13522 Hyperion Hills Ln,Charlotte,NC,28278,Mecklenburg
+104,5601 Smetana Dr,Minnetonka,MN,55343,Hennepin County
+105,7417 67th St NE,Marysville,WA,98270,Snohomish
+106,634 Willow Ave,La Puente,CA,91746,Los Angeles
+107,1229 Kayton Ave,San Antonio,TX,78210,Bexar
+108,2510 N Mcvay Dr,Mobile,AL,36605,Mobile
+109,229 Avenida Majorca Unit A,Laguna Woods,CA,92637,Orange County
+110,241 W Ivy St,New Haven,CT,6511,New Haven
+111,118 S Harrisburg Ave Apt A,Gas City,IN,46933,Grant
+112,1606 Saddlecreek Rd,Auburn,GA,30011,Barrow County
+113,95 Archambault Ave,West Warwick,RI,2893,Kent
+114,1103 Navajo Cir,Carrollton,TX,75007,Denton
+115,1311 E Pierce St,Wakefield,MI,49968,Gogebic
+116,2212 State Hwy,Port Aransas,TX,78373,Nueces
+117,2702 E,Torrington,WY,82240,Goshen County
+118,255 W Fallen Leaf Cir,Wasilla,AK,99654,Matanuska-Susitna
+119,2545 Champa St,Denver,CO,80205,Denver
+120,784 Gold Finch Way,Lake Charles,LA,70611,Calcasieu Parish
+121,6340 Lanning Ln,Las Vegas,NV,89108,Clark
+122,3405 Greenview Dr,Garland,TX,75044,Dallas
+123,1897 E 51st St,Brooklyn,NY,11234,Kings
+124,6887 W Ridgeline Rd,Peoria,AZ,85383,Maricopa
+125,3930 Calgary Ave,San Diego,CA,92122,San Diego
+126,1802 Fernwood Rd,Lake Como,NJ,7719,Monmouth County
+127,177 Rosewood Dr,Tajique,NM,87016,Torrance County
+128,807 Greensport Rd,Ashville,AL,35953,Saint Clair
+129,1002 E 25th Street Rd,Greeley,CO,80631,Weld
+130,13437 Corapeake Ter,Chesterfield,VA,23838,Chesterfield
+131,3015 Woodbine St,Jackson,MS,39212,Hinds
+132,1416 Carly Ct,San Diego,CA,92114,San Diego
+133,425 Billings St,Elgin,IL,60123,Kane
+134,7 Sellner Pl,Palm Coast,FL,32164,Flagler
+135,4842 S Indiana Ave,Chicago,IL,60615,Cook
+136,25 Tony St,Drummonds,TN,38023,Tipton
+137,1499 Multnoma Ave,Akron,OH,44305,Summit
+138,2400 Lake Ave,Pueblo,CO,81004,Pueblo
+139,11303 Rossum Creek Dr,Humble,TX,77396,Harris
+140,1005 44th St,Kenosha,WI,53140,Kenosha
+141,207 Harvest Blossom Rd,Millersville,MD,21108,Anne Arundel
+142,12405 Kingston Way,Dubuque,IA,52001,Dubuque County
+143,720 Woodcrest Ave,Brea,CA,92821,Orange
+144,3050 Rue Dorleans,San Diego,CA,92110,San Diego
+145,6 Brennan Park,Amarillo,TX,79121,Randall
+146,2469 E 99th Way,Thornton,CO,80229,Adams
+147,310 E Monmouth St,Winston Salem,NC,27127,Forsyth
+148,208 N Swarthmore Ave,Ventnor,NJ,8406,Atlantic County
+149,74240 Mercury Cir W,Palm Desert,CA,92260,Riverside
+150,2672 Towamencin Ave,Hatfield,PA,19440,Montgomery
+151,5116 Remington Ct NW,Lilburn,GA,30047,Gwinnett
+152,2155 Black Oak Ln,Ellenwood,GA,30294,Dekalb
+153,4331 Ver S Shmkr Blvd,Fort Myers,FL,33916,Lee
+154,45-705 Kamehameha Hwy,Kaneohe,HI,96744,Honolulu
+155,1836 Aspen Ln,Weston,FL,33327,Broward
+156,7135 Collins Ave,Miami Beach,FL,33141,Miami-Dade
+157,5146 Pontiac Trl,Ann Arbor,MI,48105,Washtenaw
+158,4030 Hicone Rd,Greensboro,NC,27405,Guilford
+159,14007 Long Meadow Dr,Houston,TX,77047,Harris
+160,13212 Hawthorn Ln,Woodbridge,VA,22193,Prince William County
+161,317 Nelson Ave,Summersville,WV,26651,Nicholas
+162,8081 E Corte Del Joven,Tucson,AZ,85750,Pima
+163,34950 Hidden Pine Dr,Fraser,MI,48026,Macomb
+164,70 S Munn Ave,East Orange,NJ,7018,Essex
+165,302 Mapmaker Ln,Savannah,GA,31410,Chatham
+166,314 W Magnolia Ave,San Antonio,TX,78212,Bexar
+167,802 Carrousel Ln,Kissimmee,FL,34759,Osceola
+168,1407 S Jamestown Ave,Tulsa,OK,74112,Tulsa
+169,5590 Chemin De Vie,Atlanta,GA,30342,Fulton
+170,101 S Fairview Rd,Columbia,MO,65203,Boone
+171,2025 Norcross Dr,Mesquite,TX,75149,Dallas
+172,2200 Victory Ave,Dallas,TX,75219,Dallas
+173,7 Hawthorne St,Sumter,SC,29150,Sumter
+174,400 E Randolph St,Chicago,IL,60601,Cook
+175,19038 Coton Farm Ct,Leesburg,VA,20176,Loudoun
+176,115 Queen Catherina Ct,Hutchinson Island,FL,34949,St. Lucie
+177,4855 E Lane Ave,Fresno,CA,93727,Fresno
+178,10280 Spring Hill Dr,Spring Hill,FL,34608,Hernando
+179,13508 Milan Ave,Cleveland,OH,44112,Cuyahoga
+180,712 Thoroughbred Dr SW,Albuquerque,NM,87121,Bernalillo
+181,1400 Bluff Ave,Fort Smith,AR,72901,Sebastian County
+182,3388 Portside Ln,Snellville,GA,30039,Gwinnett
+183,PO Box 402,Tullahoma,TN,37388,Coffee
+184,11 Old Mill Rd,Maynard,MA,1754,Middlesex
+185,421 W 38th St,Tucson,AZ,85713,Pima
+186,22501 E Radcliff Dr,Aurora,CO,80015,Arapahoe
+187,313 Roy Ct W,Keller,TX,76248,Tarrant
+188,2574 Lake Logan Rd,Canton,NC,28716,Haywood
+189,1340 Waylon Ave,Gastonia,NC,28054,Gaston
+190,24369 Atwood Ave,Moreno Valley,CA,92553,Riverside
+191,14835 E Grand St,Choctaw,OK,73020,Oklahoma County
+192,205 E 11th St,Colorado City,TX,79512,Mitchell
+193,6301 Camp Robinson Rd,North Little Rock,AR,72118,Pulaski
+194,204 Took Dr,Antioch,TN,37013,Davidson
+195,440 Paseo Flamenco,Rio Rico,AZ,85648,Santa Cruz
+196,3545 E Amelia Ave,Phoenix,AZ,85018,Maricopa
+197,1749 Virginia Ave,Kingsport,TN,37664,Sullivan
+198,3743 Harvette Dr,Chesterfield,VA,23237,Chesterfield
+199,363 Gastin St SW,Palm Bay,FL,32908,Brevard
+200,7889 Calle Oliva,Carlsbad,CA,92009,San Diego
+201,13268 Biscayne Blvd,North Miami,FL,33181,Miami-Dade
+202,4403 Cranbrook Dr,Indianapolis,IN,46250,Marion
+203,6810 Dina Leigh Ct,Springfield,VA,22153,Fairfax
+204,3912 Nw 58th St,Oklahoma City,OK,73112,Oklahoma
+205,715 Benwick Dr,Brandon,MS,39047,Rankin
+206,465 Brickell Ave,Miami,FL,33131,Miami-Dade
+207,3 Winding Way,Saddle River,NJ,7458,Bergen
+208,5820 Campbell Creek Dr,Oklahoma City,OK,73179,Oklahoma
+209,116 Devonshire Dr,Swedesboro,NJ,8085,Gloucester County
+210,411 Coastal Bluff Way,Summerville,SC,29486,Berkeley
+211,700 Iron Bridge Rd,Cicero,IN,46034,Hamilton
+212,51 Amity Rd,Biglerville,PA,17307,Adams
+213,16361 Saratoga Ln,Huntington Beach,CA,92649,Orange
+214,11796 Longshore Way W,Naples,FL,34119,Collier
+215,1286 Old North Main St,Laconia,NH,3246,Belknap
+216,3813 Lomi Lomi Dr,Holiday,FL,34691,Pasco
+217,1600 N Oak St,Arlington,VA,22209,Arlington County
+218,335 Oak Leaf Cir,Hoover,AL,35244,Jefferson
+219,98 Carl Sandburg Dr,Hamilton,NJ,8690,Mercer County
+220,4339 Lacebark Ln,Naperville,IL,60564,Will County
+221,22100 Burbank Blvd,Woodland Hills,CA,91367,Los Angeles
+222,3602 Jefferson St,Clearlake,CA,95422,Lake
+223,119 Allatoona Dr,Woodstock,GA,30189,Cherokee
+224,17440 N Tatum Blvd,Phoenix,AZ,85032,Maricopa
+225,1163 Winding Rose Way,West Palm Beach,FL,33415,Palm Beach
+226,844 Reece Ave,Nyssa,OR,97913,Malheur County
+227,1221 91st St,San Antonio,TX,78214,Bexar
+228,105 W 9th St,Mesa,AZ,85201,Maricopa
+229,245 County St,Milan,MI,48160,Washtenaw
+230,4201 Chestnut St,Fort Worth,TX,76137,Tarrant
+231,5701 Cedar Grove Rd,East New Market,MD,21631,Dorchester County
+232,8 Clary St,Cambridge,MA,2139,Middlesex
+233,54 Grove St,Cairo,NY,12413,Greene County
+234,431 Cascade Unit Surfrider A Loop,Little River,SC,29566,Horry County
+235,1018 Granada Ave,Nashville,TN,37206,Davidson County
+236,1204 Ruby St,Penitas,TX,78576,Hidalgo
+237,6697 Bunchberry Dr,Portage,MI,49024,Kalamazoo
+238,247 Park Ct,Bellwood,IL,60104,Cook
+239,775 Pershing Ave,Glen Ellyn,IL,60137,DuPage
+240,2320 Rosewood St,Jenison,MI,49428,Ottawa
+241,16101 S Post Oak Rd,Houston,TX,77053,Fort Bend
+242,251 Oak Trl,Sedona,AZ,86336,Yavapai
+243,713 Lowveld Dr,Murphy,TX,75094,Collin County
+244,74290 Covered Wagon Trl,Palm Desert,CA,92260,Riverside
+245,3921 San Lorenzo Ct,Oceanside,CA,92057,San Diego
+246,4811 Sierra Madre Dr,Tampa,FL,33634,Hillsborough
+247,1330 West Ave,Miami Beach,FL,33139,Miami-Dade County
+248,16408 Sw 95th St,Miami,FL,33196,Miami-Dade
+249,20 Lango Ln,Agawam,MA,1001,Hampden
+250,9723 Downey Ave,Downey,CA,90240,Los Angeles
+251,216 Evans Ave,Elmont,NY,11003,Nassau
+252,10000 Banburry Cross Dr,Las Vegas,NV,89144,Clark
+253,7708 Hanover Pkwy,Greenbelt,MD,20770,Prince Georges
+254,3445 Montebello Pkwy,Cumming,GA,30028,Forsyth
+255,20 Pawtucket Row,Orchard Park,NY,14127,Erie
+256,85 Woodsedge Dr,Newington,CT,6111,Hartford
+257,4693 Lyndenhall Dr,Columbus,OH,43207,Franklin
+258,22335 N 77th Pl,Scottsdale,AZ,85255,Maricopa
+259,10 Weyanoke St,Dorchester Center,MA,2124,Suffolk
+260,402 W Prospect St,Fayetteville,AR,72701,Washington
+261,1629 Claywood Ct,Lexington,KY,40515,Fayette
+262,325 Longboat Ave,Beachwood,NJ,8722,Ocean County
+263,3017 8th Ave N,Texas City,TX,77590,Galveston
+264,406 Oakhaven Dr,Smyrna,TN,37167,Rutherford
+265,24816 W Ravine Crest Dr,Lake Villa,IL,60046,Lake
+266,653 Thornwood Dr,Southaven,MS,38671,Desoto
+267,689 W 5th St,Winston Salem,NC,27101,Forsyth
+268,7720 Ave L,Houston,TX,77012,Harris
+269,18904 Dog Bar Rd,Grass Valley,CA,95949,Nevada County
+270,505 Evelyn Ct,Keller,TX,76248,Tarrant
+271,11322 Cottonwood Hills Rd,Cashion,OK,73016,Logan
+272,PO Box 360,East Mc Keesport,PA,15035,Allegheny
+273,2528 E 97th Pl,Chicago,IL,60617,Cook
+274,4314 Gadwall Pl,Virginia Beach,VA,23462,Virginia Beach City
+275,10520 Tireman St,Detroit,MI,48204,Wayne
+276,15580 Nw Linder St,Portland,OR,97229,Washington
+277,8434 San Carlos Blvd,Fort Myers,FL,33967,Lee
+278,11642 Tropical Isle Ln,Riverview,FL,33579,Hillsborough
+279,824 Belvedere Blvd,Charlottesville,VA,22901,Albemarle
+280,15076 Cedar Springs Dr,Biloxi,MS,39532,Harrison County
+281,6919 Altair Chase,San Antonio,TX,78252,Bexar
+282,101 Lewis St,Harrisburg,PA,17110,Dauphin
+283,905 Mcconnell Ave,Eden,NC,27288,Rockingham
+284,2912 Quail Run Dr,Mesquite,TX,75149,Dallas
+285,4398 Us Hwy,Four Oaks,NC,27524,Johnston
+286,73 Coles Pond Rd,Somersworth,NH,3878,Strafford County
+287,1 Newcomb St,Boston,MA,2118,Suffolk County
+288,1216 Old Fairhaven Pkwy,Bellingham,WA,98225,Whatcom County
+289,8370 E Via,Scottsdale,AZ,85258,Maricopa
+290,2511 Dolly Bay Dr,Palm Harbor,FL,34684,Pinellas
+291,106 Knight Ln,Lancaster,PA,17602,Lancaster
+292,1808 N Vermont Ave,Royal Oak,MI,48073,Oakland County
+293,8194 Sawgrass Way,Radford,VA,24141,Pulaski
+294,50 Columbus Dr,Jersey City,NJ,7302,Hudson
+295,14223 Saltby Pl,Spring Hill,FL,34609,Hernando
+296,1107 9th St NE,Milaca,MN,56353,Mille Lacs County
+297,2097 Belhaven Ave,Simi Valley,CA,93063,Ventura
+298,720 Gormley Dr,Rockville,MD,20850,Montgomery
+299,904 Bedford St,Austin,TX,78702,Travis
+300,7946 Golfhill Dr,Port Arthur,TX,77642,Jefferson
+301,6154 Southbend Dr S,Mobile,AL,36619,Mobile
+302,123 Sylvia Ct,Vallejo,CA,94591,Solano
+303,5413 Village,Roanoke,VA,24018,Roanoke
+304,176 E Kerley Corners Rd,Red Hook,NY,12571,Dutchess
+305,2427 Parkhighland Ct,Charlotte,NC,28273,Mecklenburg
+306,14747 Sw 175th St,Miami,FL,33187,Miami-Dade
+307,1717 N Bayshore Dr,Miami,FL,33132,Miami-Dade County
+308,20 Maple Ave,Cambridge,MA,2139,Middlesex County
+309,103 Hilltop Dr,Cochranville,PA,19330,Chester
+310,2614 Blackthorne Pl,Columbus,OH,43224,Franklin
+311,129 Midwell Rd,Wethersfield,CT,6109,Hartford
+312,5560 Chickering Ct,Bartlesville,OK,74006,Washington
+313,3633 Clearview Dr,Corinth,TX,76210,Denton
+314,306 50th Ave,Bellwood,IL,60104,Cook County
+315,11930 Sugar Hill Dr,Midlothian,VA,23112,Chesterfield
+316,438 Cuyahoga St,Kent,OH,44240,Portage
+317,1175 Canyon Rd,Ogden,UT,84404,Weber
+318,1513 Riverside Dr,Beaufort,SC,29902,Beaufort
+319,PO Box 1810,Tampa,FL,33601,Hillsborough
+320,7390 17 Mile Rd NE,Cedar Springs,MI,49319,Kent County
+321,7703 Snowbasin,Converse,TX,78109,Bexar
+322,7801 E Mckinley St,Scottsdale,AZ,85257,Maricopa
+323,825 N Walnut St,Dover,OH,44622,Tuscarawas
+324,466 W Eagle Lake Dr,Maple Grove,MN,55369,Hennepin
+325,1489 Nw 40th St,Miami,FL,33142,Miami-Dade
+326,2727 Northridge Cir,Purcell,OK,73080,McClain
+327,176 E Foster St,Melrose,MA,2176,Middlesex County
+328,14000 Noel Rd,Dallas,TX,75240,Dallas
+329,30 N Mountain Rd,New Britain,CT,6053,Hartford
+330,2903 Nashville,Amarillo,TX,79118,Randall
+331,10440 Armstrong St,Fairfax,VA,22030,Fairfax City
+332,211 Alnwick Ln,Waxhaw,NC,28173,Union
+333,56 Hill Top Rd,Huntsville,TX,77320,Walker
+334,1809 Winding Way Dr,White House,TN,37188,Sumner
+335,1190 Portland Dr,Harrisonburg,VA,22801,Harrisonburg City
+336,4310 Lower Honoapiilani Rd,Lahaina,HI,96761,Maui
+337,105 E Linden St,Rome,NY,13440,Oneida
+338,1101 Saint Croix St N,Hudson,WI,54016,St. Croix County
+339,1779 Summer Cloud Dr,Thousand Oaks,CA,91362,Ventura
+340,6026 Birdie Dr,La Verne,CA,91750,Los Angeles
+341,1621 Award Dr,Manchester,MO,63021,Saint Louis
+342,1700 Wyatt Dr,Santa Clara,CA,95054,Santa Clara
+343,2334 Candle Ridge Trl,Georgetown,TX,78626,Williamson
+344,PO Box 38,Edinburg,IL,62531,Christian
+345,128 Booth Cir,Ocean Springs,MS,39564,Jackson
+346,3504 Se Franklin St,Portland,OR,97202,Multnomah County
+347,404 Jackson St,Belden,NE,68717,Cedar County
+348,1024 Coach Cir,Virginia Beach,VA,23462,Virginia Beach City
+349,5024 Radcliffe Rd,Columbia,SC,29206,Richland
+350,8783 109th St,Richmond Hill,NY,11418,Queens
+351,2605 Bel Air Ln,Flower Mound,TX,75022,Denton
+352,3012 N 13th St,Tacoma,WA,98406,Pierce
+353,12046 Se Main St,Portland,OR,97216,Multnomah
+354,4442 S Benton Ave,Kansas City,MO,64130,Jackson
+355,13538 Sw 64th Ter,Miami,FL,33183,Miami-Dade
+356,4037 Monarch Dr,Mcdonough,GA,30253,Henry
+357,6320 Tuckaway Cove Ave,Las Vegas,NV,89139,Clark
+358,3150 Plaza Terrace Dr,Orlando,FL,32803,Orange
+359,225 Camellia Dr,Prattville,AL,36067,Autauga
+360,83 Trinity Cir,Livermore,CA,94551,Alameda
+361,1739 Emerald Lake Ct,Houston,TX,77062,Harris
+362,480 Kimball St,Manchester,NH,3102,Hillsborough
+363,7 Harkin Ln,Hicksville,NY,11801,Nassau
+364,5225 Forestville Rd,Raleigh,NC,27604,Wake
+365,3071 Old New Cut Rd,Springfield,TN,37172,Robertson County
+366,118 Everette Ln,Smithfield,NC,27577,Johnston
+367,23 Concord Pl,Clementon,NJ,8021,Camden
+368,5929 Se 88th St,Oklahoma City,OK,73135,Oklahoma
+369,8449 Thompson Ct NW,Bemidji,MN,56601,Beltrami
+370,2295 Wilshire Dr,Grayson,GA,30017,Gwinnett
+371,1801 Barron Ln,Fort Worth,TX,76112,Tarrant
+372,1327 Wellesley Ave,Steubenville,OH,43952,Jefferson
+373,905 Grooms Rd Dr,Clifton Park,NY,12148,Saratoga County
+374,418 Boxelder Dr,Stafford,VA,22554,Stafford
+375,2280 Valley Ave,Winchester,VA,22601,Winchester City
+376,211 N Citrus Ave,Inverness,FL,34450,Citrus
+377,1304 W 3rd St,Vinton,IA,52349,Benton
+378,4701 San Leandro St,Oakland,CA,94601,Alameda
+379,7905 W Thunderbird Rd,Peoria,AZ,85381,Maricopa
+380,101 Johnston St,Savannah,GA,31405,Chatham
+381,1620 N 26th Ave,Hollywood,FL,33020,Broward
+382,14564 Woodgate Manor Cir,Centreville,VA,20120,Fairfax City
+383,618 Wainsford Dr,Hoffman Estates,IL,60169,Cook
+384,6387 Shea Tree Cir,Mechanicsville,VA,23111,Hanover
+385,102 Colony Dr,North Myrtle Beach,SC,29582,Horry
+386,21 Crescent Pl,Sheridan,WY,82801,Sheridan
+387,110 E 60th St,New York City,NY,10022,New York County
+388,5707 Se 48th St,Oklahoma City,OK,73135,Oklahoma
+389,1031 Nottinghill Ct,Indianapolis,IN,46234,Hendricks
+390,1435 Mckinley Ave,San Antonio,TX,78210,Bexar
+391,254 Hagan Pl,Secaucus,NJ,7094,Hudson County
+392,160018 Arch St,Philadelphia,PA,19103,Philadelphia County
+393,311 Los Altos Way,Altamonte Springs,FL,32714,Seminole County
+394,803 Jefferson St,Eufaula,AL,36027,Barbour
+395,903 Peachtree St NE,Atlanta,GA,30309,Fulton
+396,37178 Dondero Way,Fremont,CA,94536,Alameda
+397,422 Shuart Ave,Syracuse,NY,13203,Onondaga
+398,5208 Dartmoor Ridge Trl,Houston,TX,77066,Harris
+399,401 Leighann Rd,Henderson,NV,89015,Clark
+400,1138 S Truro Ave,Inglewood,CA,90301,Los Angeles
+401,1217 Sussex St,Boynton Beach,FL,33436,Palm Beach
+402,300 Pitney Rd,Absecon,NJ,8201,Atlantic
+403,947 N 35th St,Milwaukee,WI,53208,Milwaukee
+404,3702 Bentley Pl,Waxhaw,NC,28173,Union
+405,4586 Trilogy Park Trl,Hoschton,GA,30548,Gwinnett
+406,1044 Camino Ln,Austin,TX,78752,Travis
+407,1835 S Sherman St,Denver,CO,80210,Denver
+408,10206 Paganica Pl,Hutchinson,KS,67502,Reno
+409,7034 2nd St N,Saint Petersburg,FL,33702,Pinellas
+410,7267 Winchester Rd,Memphis,TN,38125,Shelby
+411,2417 Elaine St,Lake Charles,LA,70601,Calcasieu
+412,321 W 1st St,Eloy,AZ,85131,Pinal
+413,1775 N Mountain View Ct,Washington,UT,84780,Washington
+414,971 Rye Dr,La Plata,MD,20646,Charles
+415,188 Perkins Ave,Waterbury,CT,6704,New Haven
+416,1372 Slate Ct,Cleveland,OH,44118,Cuyahoga
+417,4730 59th St,Woodside,NY,11377,Queens
+418,637 Main St,Woodland,PA,16881,Clearfield
+419,18384 Nw County Rd,Frost,TX,76641,Navarro
+420,50 Stroud Dr SE,Mableton,GA,30126,Cobb
+421,19 Bronsdon St,Brighton,MA,2135,Suffolk
+422,510 Bankhead Hwy,Carrollton,GA,30117,Carroll
+423,1019 Copeland St,Jacksonville,FL,32204,Duval
+424,701 Winter Ct,Nashville,TN,37211,Davidson
+425,615 Penhurst Pl,Hendersonville,TN,37075,Sumner
+426,3625 Kevin Ryan Dr,Baton Rouge,LA,70816,East Baton Rouge
+427,10514 Quimby Dr,Port Richey,FL,34668,Pasco
+428,602 Pleasants Dr,Fredericksburg,VA,22407,Fredericksburg
+429,1120 S Wright Blvd,Liberty Lake,WA,99019,Spokane County
+430,Seminole Dr,Mountain City,TN,37683,Johnson
+431,621 E 94th St,Odessa,TX,79765,Ector
+432,1624 S Bardo St,Visalia,CA,93277,Tulare
+433,1490 45th Ave,San Francisco,CA,94122,San Francisco
+434,1061H Blanton Mill Rd,Griffin,GA,30224,Spalding
+435,245 E 121st St,Chicago,IL,60628,Cook
+436,1673 E Bradstock Way,San Tan Valley,AZ,85140,Pinal
+437,5521 Castleview Ln,Garland,TX,75044,Dallas
+438,5497 Northwest Dr N,Bellingham,WA,98226,Whatcom County
+439,30 N Michigan Ave,Chicago,IL,60602,Cook
+440,1601 Chester Mill Rd,Silver Spring,MD,20906,Montgomery
+441,6415 Bull Valley Rd,Mchenry,IL,60050,McHenry County
+442,737 E 24th St,Los Angeles,CA,90011,Los Angeles
+443,1024 Wyoming Ave,Fort Lauderdale,FL,33312,Broward
+444,6401 Skycrest Dr,Austin,TX,78745,Travis
+445,63 Catherine St,Trumbull,CT,6611,Fairfield County
+446,709 10th St S,Northwood,IA,50459,Worth
+447,1206 York Rd,Lutherville Timonium,MD,21093,Baltimore
+448,11059 Landsbury Cir,Houston,TX,77099,Harris
+449,5530 Arnold Palmer Dr,Orlando,FL,32811,Orange
+450,4745 Nw 32nd Ave,Miami,FL,33142,Miami-Dade
+451,2637 Ne M L King Blvd,Portland,OR,97212,Multnomah
+452,1521 N Hastings St,Orlando,FL,32808,Orange
+453,15 Chippewa Rd,Toms River,NJ,8753,Ocean
+454,44422 Sunset Maple Dr,Ashburn,VA,20147,Loudoun
+455,11009 W Lincoln St,Avondale,AZ,85323,Maricopa
+456,9200 Ball Rd,Cattaraugus,NY,14719,Cattaraugus
+457,385 Hawthorn Hall,East Stroudsburg,PA,18301,Monroe
+458,1401 Sw 17th St,Boca Raton,FL,33486,Palm Beach
+459,815 1st Ave S,Estherville,IA,51334,Emmet
+460,4473 Westview Dr,Copley,OH,44321,Summit
+461,4103 Flowerton Rd,Baltimore,MD,21229,Baltimore City
+462,1052 S Fresno St,Chandler,AZ,85286,Maricopa
+463,1548 E 4500 S,Salt Lake City,UT,84117,Salt Lake
+464,17950 N 97th Pl,Scottsdale,AZ,85255,Maricopa
+465,1037 Fair Meadow Rd,Memphis,TN,38117,Shelby
+466,287 Tara Woods Dr,Riverdale,GA,30274,Clayton
+467,PO Box 20190,Houston,TX,77225,Harris
+468,1921 E Oak Bend Dr,Draper,UT,84020,Salt Lake
+469,6046 12th St NW,Canton,OH,44708,Stark
+470,22 Meadow Vista Ct,Saint Peters,MO,63376,Saint Charles
+471,115 Sylvan Lake Blvd,Bayville,NJ,8721,Ocean
+472,1339 Wilson Ave,Upland,CA,91786,San Bernardino
+473,4816 Friendly St,Pace,FL,32571,Santa Rosa
+474,2011 Brandt Rd,Vancouver,WA,98661,Clark
+475,921 S Val Vista Dr,Mesa,AZ,85204,Maricopa
+476,423 Northvalley Dr,San Antonio,TX,78216,Bexar
+477,4318 W Jackson Blvd,Chicago,IL,60624,Cook
+478,1715 S Kansas Pl,Nampa,ID,83686,Canyon
+479,220 Margaret St,Neptune Beach,FL,32266,Duval
+480,2412 S Verbena,Mesa,AZ,85209,Maricopa
+481,1513 Oregon St,Lake Charles,LA,70607,Calcasieu
+482,306 W Main St,Hallsville,TX,75650,Harrison
+483,2716 Fenway Ave,Chesapeake,VA,23323,Chesapeake City
+484,1 Columbus Pl,New York,NY,10019,New York
+485,5500 Sw 109th Street Rd,Ocala,FL,34476,Marion
+486,1813 Edinburgh St,Metairie,LA,70001,Jefferson
+487,5895 Kingsmont Dr,Fairfield,OH,45014,Butler
+488,4882 Wilkie Way NW,Acworth,GA,30102,Cobb
+489,345 Vernier Ave,Lafayette,CO,80026,Boulder
+490,PO Box 666,Vernon,TX,76385,Wilbarger
+491,3900 Nebel St,Stevens Point,WI,54481,Portage County
+492,1321 Canterlane Dr,Houston,TX,77047,Harris
+493,930 Willow Brook Ave,Denham Springs,LA,70726,Livingston
+494,101 Halsey Ave,Reading,PA,19609,Berks
+495,3356 Bowman St,Philadelphia,PA,19129,Philadelphia
+496,2601 Sunset Blvd,Minneapolis,MN,55416,Hennepin
+497,1594 Sunview St,Muskegon,MI,49445,Muskegon
+498,400 W St Elmo Rd,Austin,TX,78745,Travis County
+499,1319 Elmwood Ave SW,North Canton,OH,44720,Stark
